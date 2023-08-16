@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.quiz-app{
+    width: 800px;
+}
+.quiz-app .answers-area .answer:not(:last-child){
+    border-bottom: 1px solid #dfdfdf;
+}
+.quiz-app .answers-area .answer input[type="Radio"]:checked + label{
+    color: #0075ff;
+}
+.quiz-app .bullets{
+    border-top: 1px solid #f6f6f6;
+    background-color: #fff;
+    display: flex;
+    padding: 20px;
+}
+.quiz-app .bullets .spans{
+    display: flex;
+    flex: 1;
+}
+.quiz-app .bullets .spans span{
+    width: 20px;
+    height: 20px;
+    background-color: #ddd;
+    margin-right:5px ;
+    border-radius: 50%;
+}
+.quiz-app .bullets .spans span.on{
+    background-color: #0075ff;
+}

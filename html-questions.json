@@ -1,0 +1,82 @@
+[
+    {
+        "Title":"Why We Use <br> Element",
+        "answer-1":"To Make Text Bold",
+        "answer-2":"To Make Text Italic",
+        "answer-3":"To Add Breakline",
+        "answer-4":"To Add Horizontal Line",
+        "right_answer":"To Add Breakline"
+    },
+    {
+        "Title":"Is <img> ElemenntHas Attribute href",
+        "answer-1":"Yes",
+        "answer-2":"No Its For Anchor Tag <a>",
+        "answer-3":"All ElementsHas This Attribute",
+        "answer-4":"Answers 1 and 3 Are Right",
+        "right_answer":"No Its For Anchor Tag <a> "
+    },
+    {
+        "Title":"How Can We Make Element Text Bold",
+        "answer-1":"Putting it Inside <b> Tag",
+        "answer-2":"Putting it Inside <strong> Tag",
+        "answer-3":"Customizing It With Font-weight Property In CSS",
+        "answer-4":"All ANswers Are Right",
+        "right_answer":"All Answers Are Right"
+    },
+    {
+        "Title":"What Is The Element Thats Not Exists In HTML5 Semantics",
+        "answer-1":"Putting it Inside <b> Tag",
+        "answer-2":"Putting it Inside <strong> Tag",
+        "answer-3":"Customizing It With Font-weight Property In CSS",
+        "answer-4":"All ANswers Are Right",
+        "right_answer":"All Answers Are Right"
+    },
+    {
+        "Title":"In HTML Can This Way To Add Attribute",
+        "answer-1":"<div class ='class-name'>",
+        "answer-2":"<div class =class-name>",
+        "answer-3":"<div class =\"class-name\">",
+        "answer-4":"All Answers Are Right",
+        "right_answer":"All Answers Are Right"
+    },
+    {
+        "Title":"What Is The Right Hierarchy For Creating Part Of Page",
+        "answer-1":"<h2> Then <p> Then <h1> Then <p> Then <h3> then <p> Then <img>",
+        "answer-2":"<h1> Then <p> Then <h3> Then <p> Then <h2> then <p> Then <img>",
+        "answer-3":"<h2> Then <p> Then <h3> Then <p> Then <h1> then <p> Then <img>",
+        "answer-4":"All Solutions Are wrong",
+        "right_answer":"All Solutions Are wrong"
+    },
+    {
+        "Title":"How Can We Include External Page Inside Our HTML Page",
+        "answer-1":"By Using Include In HTML",
+        "answer-2":"By Using Load In HTML",
+        "answer-3":"By Using iFrame Tag",
+        "answer-4":"All Solutions Are wrong",
+        "right_answer":"By Using iFrame Tag"
+    },
+    {
+        "Title":"What Is The Tag Thas Not Exist In HTML",
+        "answer-1":"<object>",
+        "answer-2":"<basefont>",
+        "answer-3":"<abbr>",
+        "answer-4":"All Tags Exist In HTML",
+        "right_answer":"All Tags Exist In HTML"
+    },
+    {
+        "Title":"What Is The Tag Thas Not Exist In HTML",
+        "answer-1":"<object>",
+        "answer-2":"<basefont>",
+        "answer-3":"<abbr>",
+        "answer-4":"All Tags Exist In HTML",
+        "right_answer":"All Tags Exist In HTML"
+    },
+    {
+        "Title":" How We Specify Document Type Of HTML5 Page",
+        "answer-1":"<DOCTYPE html>",
+        "answer-2":"<DOCTYPE html(>",
+        "answer-3":"<!DOCTYPE html5>",
+        "answer-4":"<!DOCTYPE html>",
+        "right_answer":"<!DOCTYPE html>"
+    }
+]
